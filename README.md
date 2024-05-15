@@ -1,1 +1,3 @@
-# gist_library_movie
+# gist-movie
+
+Find out appealing movies from GIST library‼️
